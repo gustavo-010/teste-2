@@ -1,0 +1,119 @@
+body {
+  background: #1C2A39;
+  margin: 0px;
+}
+
+/* Cabeça */
+
+#fundoCabeca{
+  background: #121C25;
+  border-bottom: solid 1px #38444D;
+  display: flex;
+  justify-content: center;
+}
+.txtCabeca{
+  color: #38444D;
+  font-size: 35px;
+  font-family: monospace;
+  margin: 0px 0px 0px 0px;
+  padding: 20px 20px 20px 20px
+}
+
+/* Fim cabeça */
+
+
+
+/* Posts */
+.FundoConteudoPost{
+  width: 390px;
+  background: #121C25;
+  border: solid 1px #38444D;
+  margin: 20px 0px 0px 5px;
+  padding: 20px 16px 8px 35px;
+  border-radius: 50px 15px 15px 15px;
+  box-shadow: 0px 0px 30px #0000008A;
+}
+.txtConteudoPost{
+  color: #FFFFFF;
+  font-family: monospace;
+  font-size: 18px;
+}
+.link{
+  color: #FF0000;
+  cursor: default;
+  text-decoration: none;
+  font-family: monospace;
+  font-size: 18px;
+}
+.img{
+  border: 2px solid #5D707F;
+}
+
+/* Final post */
+
+
+/* chat */
+
+#Chat{
+  background: #D4D7F2;
+  display: none;
+}
+
+/* Fim chat */
+
+
+
+/* Em Manutenção
+
+#fundoConfiguracao{
+  display: none;
+}
+#box[type="checkbox"]{
+  position: relative;
+  top: 6px;
+  background: #A1A1A1;
+  width: 80px;
+  height: 40px;
+  appearance: none;
+  border-radius: 19px;
+  outline: none;
+  transition: 500ms;
+}
+
+#box:checked[type="checkbox"]{
+  background: #2F2F2F;
+  
+}
+
+#box[type="checkbox"]:before{
+  content: '';
+  position: absolute;
+  width: 35px;
+  height: 35px;
+  background: #272727;
+  margin: 2.50px;
+  border-radius:50px;
+  transition: 500ms;
+}
+#box:checked[type="checkbox"]:before {
+  content: '';
+  position: absolute;
+  background: #C9C9C9;
+  margin: 2.50px 42px;
+}
+#txtCheckbox{
+  color: #38444D;
+  margin-top:;
+  margin-left: 10px;
+  font-size: 45px;
+  font-family: monospace;
+}
+#fundoCheckbox{
+  border-top: solid 1px #38444D;
+  border-bottom: solid 1px #38444D;
+  margin-top: 10px;
+  background: #121C25;
+  display: flex;
+}
+
+*/
